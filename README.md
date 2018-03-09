@@ -1,4 +1,4 @@
-# countLighting-by-react
+# lightingCount-by-react
 
 - [ ] **Finish**
   - [x] commit to Github
